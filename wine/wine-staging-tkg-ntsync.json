@@ -1,0 +1,13 @@
+[
+    {
+        "name": "wine-10.4-staging-tkg-ntsync-amd64",
+        "title": "Wine-Staging-TkG NTSYNC 10.4",
+        "uri": "https://example.com"
+        "files": {
+            "wine": "bin/wine",
+            "wine64": "bin/wine64",
+            "wineserver": "bin/wineserver",
+            "wineboot": "bin/wineboot"
+        }
+    },
+]

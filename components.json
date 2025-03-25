@@ -5,6 +5,10 @@
             "title": "Wine-Staging-TkG"
         },
         {
+            "name": "wine-staging-tkg-ntsync",
+            "title": "Wine-Staging-TkG-NTSYNC"
+        },
+        {
             "name": "wine-ge-proton",
             "title": "Wine-GE-Proton"
         },
