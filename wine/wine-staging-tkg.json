@@ -1,8 +1,8 @@
 [
     {
-        "name": "wine10.4-staging-tkg-ntsync-amd64",
+        "name": "wine-10.4-staging-tkg-ntsync-amd64",
         "title": "Wine-TkG 10.4 NTSYNC",
-        "uri": "https://github.com/XenHat/components/releases/download/10.4-ntsync/wine10.4-staging-tkg-ntsync-amd64.tar.gz",
+        "uri": "https://github.com/XenHat/components/releases/download/10.4-ntsync/wine-10.4-staging-tkg-ntsync-amd64.tar.gz",
         "files": {
             "wine": "bin/wine",
             "wine64": "bin/wine64",
